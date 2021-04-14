@@ -1,2 +1,3 @@
-# plutus-program-solutions
-Contains my solutions to Plutus Pioneers course 
+Plutus Pioneers program
+
+Project contains my solutions to Plutus Pioneers course 
